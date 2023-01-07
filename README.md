@@ -3,7 +3,7 @@
 #### Formado desde 2010 já trabalhei com coordenação de obras e elaboração de projetos estruturais. No decorrer da minha profissão tive vários contatos com a área de tecnologia e fui descobrindo um interesse maior por desenvolvimento a medida que o tempo passava, até que em setembro de 2022 resolvi mudar de área. Comecei a estudar a partir de então e focar com determinação.
 
 ### Profile
-<img src="https://github-readme-stats.vercel.app/api?username=lhmaruyama&show_icons=true" heigth=200em/>
+<img src="https://github-readme-stats.vercel.app/api?username=lhmaruyama&show_icons=true" heigth=180em/>
 
 
 ### My techs
