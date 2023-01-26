@@ -12,4 +12,4 @@
 
 ### Contact me
 
-<a href='mailto:lhmaruyama@gmail.com'><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge&color=ea4335" target='_blank'/><a/> <a href='http://linkedin.com/in/lhmaruyama'><img src="https://img.shields.io/badge/linkedin-red?logo=linkedin&logoColor=white&style=for-the-badge&color=0e76a8" target='_blank'/><a/> <a href='https://wa.me/+5516997658136'><img src="https://img.shields.io/badge/whatsapp-red?logo=whatsapp&logoColor=white&style=for-the-badge&color=25D366" target='_blank'/><a/>
+<a href='mailto:lhmaruyama@gmail.com'><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge&color=ea4335" target='_blank'/><a/> <a href='http://linkedin.com/in/luis-maruyama'><img src="https://img.shields.io/badge/linkedin-red?logo=linkedin&logoColor=white&style=for-the-badge&color=0e76a8" target='_blank'/><a/> <a href='https://wa.me/+5516997658136'><img src="https://img.shields.io/badge/whatsapp-red?logo=whatsapp&logoColor=white&style=for-the-badge&color=25D366" target='_blank'/><a/>
