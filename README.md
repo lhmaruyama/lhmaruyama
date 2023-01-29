@@ -4,7 +4,7 @@
 
 ### Profile
 <img src="https://github-readme-stats.vercel.app/api?username=lhmaruyama&show_icons=true" heigth=180em/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=react&hide_border=true&border_radius=6&locale=pt_BR" heigth=140 width=480/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=react&hide_border=true&border_radius=6&locale=pt_BR" heigth=140 width=780/>
 
 https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=icegray&hide_border=true&border_radius=6&locale=pt_BR
 
