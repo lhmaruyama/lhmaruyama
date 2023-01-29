@@ -4,7 +4,7 @@
 
 ### Profile
 <img src="https://github-readme-stats.vercel.app/api?username=lhmaruyama&show_icons=true" heigth=180em/>
-<img src="[https://github-readme-stats.vercel.app/api?username=lhmaruyama&show_icons=true](https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=vue-dark&hide_border=true&border_radius=6&locale=pt_BR)](https://git.io/streak-stats)" heigth=180em/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=vue-dark&hide_border=true&border_radius=6&locale=pt_BR" heigth=180em/>
 
 
 ### My techs
