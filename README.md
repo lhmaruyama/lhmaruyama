@@ -4,9 +4,10 @@
 
 ### Profile
 <img src="https://github-readme-stats.vercel.app/api?username=lhmaruyama&show_icons=true" heigth=180em/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=react&hide_border=true&border_radius=6&locale=pt_BR" heigth=140 width=470/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=icegray&hide_border=true&border_radius=6&locale=pt_BR" heigth=140 width=470/>
 
-https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=icegray&hide_border=true&border_radius=6&locale=pt_BR
+[(https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=react&hide_border=true&border_radius=6&locale=pt_BR)]
+[(https://github-readme-streak-stats.herokuapp.com?user=lhmaruyama&theme=icegray&hide_border=true&border_radius=6&locale=pt_BR)]
 
 ### My techs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" heigth=50em width=50em/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" heigth=50em width=50em/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" heigth=44em width=44em/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" heigth=50em width=50em/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth=50em width=50em/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" heigth=50em width=50em/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" heigth=44em width=44em/>
